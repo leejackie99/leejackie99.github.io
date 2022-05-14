@@ -1254,7 +1254,7 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #ffcb05;
+  background-color: #5F8575;
   color: #000000; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
@@ -2598,7 +2598,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #ffcb05 !important; }
+  background-color: #5F8575 !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
