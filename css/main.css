@@ -24,6 +24,12 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+
+ .jaein{
+  background-image: url('images/jaein.jpg');
+  background-size: cover;
+ }
+
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
